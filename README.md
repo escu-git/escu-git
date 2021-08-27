@@ -18,7 +18,6 @@
 #
 
 ## About me and what I'm up to:
-
 - 💻 I’m currently working as Freelance Web Developer.
 - 🌱 I’m currently on a backend course.
 - 🎯 I’m looking to join a developers team.
@@ -28,5 +27,3 @@
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=escu-git)
 ![image](https://github-readme-stats.vercel.app/api?username=escu-git)
-
-
