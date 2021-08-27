@@ -1,6 +1,11 @@
 # Hi there, I'm Pablo Martín Escudero 👩🏻‍💻
-#### I'm a Frontend Web Developer (Who loves working on backend)
+###### I'm a Frontend Web Developer (Who loves working on backend)
 
+#
+#### How to reach me:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablomartinescudero/)
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:escuderopablo@hotmail.com.ar) 
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491132149319)
 #
 ##### These are some of the technologies I've been working with:
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
@@ -20,12 +25,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${escu-git}.${escu-git})
 #
-### How to reach me:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablomartinescudero/)
-[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:escuderopablo@hotmail.com.ar) 
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491132149319)
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=escu-git)
 ![image](https://github-readme-stats.vercel.app/api?username=escu-git)
-
-
