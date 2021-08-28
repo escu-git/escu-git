@@ -1,5 +1,5 @@
 # Hi there, I'm Pablo Martín Escudero 👩🏻‍💻
-###### I'm a Frontend Web Developer (Who loves coding on backend)
+###### I'm a Frontend Web Developer (Who also loves coding on backend).
 
 
 ## How to reach me:
