@@ -18,8 +18,8 @@
 
 
 ## About me and what I'm up to:
-- 💻 I’m currently working as Freelance Web Developer.
-- 🌱 I’m currently on a backend course.
+- 💻 Working as freelance web developer.
+- 📚 Currently on a Backend course at Coderhouse, and C# at Udemy.
 - 🎯 I’m looking to join a developers team.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${escu-git}.${escu-git})
