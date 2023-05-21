@@ -1,6 +1,6 @@
 # Hi there, I'm Pablo Martín Escudero 👩🏻‍💻
-##### Fullstack Web Developer.
-######This is my personal/educative Github Account, my professional one is as follow:
+#### Fullstack Web Developer.
+#####This is my personal/educative Github Account, my professional one is as follow:
 https://github.com/escuderopablo
 
 ## Have a look at some of the technologies I've been working with:
