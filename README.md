@@ -98,4 +98,3 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${escu-git}.${escu-git})
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=escu-git)
-![image](https://github-readme-stats.vercel.app/api?username=escu-git)
