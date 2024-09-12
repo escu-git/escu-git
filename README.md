@@ -86,7 +86,7 @@
 
 
 ## About me and what I'm up to:
-- 💻 Working as Fullstack Web Developer at [Grupo Logístico Andreani](https://www.andreani.com/#!/personas)
+- 💻 Working as Fullstack Web Developer at [Shifta](https://www.weareshifters.com/en/)
 - 📚 Currently studyng at UTN (National Technological University) - University Programming Technician
 - 🎯 Looking for new challenges.
 
